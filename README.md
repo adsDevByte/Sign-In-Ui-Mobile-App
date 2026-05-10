@@ -1,4 +1,4 @@
-# 🌶️ Osler — AI Telehealth Sign In Screen
+#  Osler — AI Telehealth Sign In Screen
 ### React Native + Expo • Mobile Authentication UI
 
 ---
@@ -109,3 +109,9 @@ osler-signin/
 - Fully responsive for all mobile screen sizes
 - Keyboard-aware scroll via `ScrollView`
 - Focus states on inputs with teal highlight glow
+
+---
+<img width="1080" height="1765" alt="WhatsApp Image 2026-05-10 at 5 44 47 PM" src="https://github.com/user-attachments/assets/776c8bac-5110-4d25-92c8-3f4c17daab72" />
+
+
+
