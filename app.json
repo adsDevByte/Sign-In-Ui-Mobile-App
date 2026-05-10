@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Osler",
+    "slug": "osler-signin",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "com.osler.signin"
+    }
+  }
+}
